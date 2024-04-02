@@ -1,0 +1,64 @@
+body {
+    margin: 0;
+    background-color: #1F2937;
+}
+
+/* Styles for h1 */
+h1 {
+    font-family: 'Karla', sans-serif;
+    font-weight: 800; /* Extra bold */
+    font-size: 40px;
+    color: white;
+    padding-top: 11px; /* 115px from the top */
+    padding-left: 52px; /* 52px from the left */
+    margin-bottom: 1;
+    margin-bottom: 10;
+}
+
+
+/* Styles for h2 */
+h2 {
+    font-family: 'Karla', sans-serif;
+    font-weight: 800; /* Extra bold */
+    font-size: 40px;
+    color: #4ADF86; /* Green color */
+    padding-top: px; /* 115px from the top */
+    padding-left: 52px;
+    margin-top: ;
+    
+}
+
+/* Styles for p */
+p {
+    font-family: 'Inter', sans-serif;
+    font-weight: 400; /* Regular */
+    font-size: 20px;
+    color: white;
+    padding-left: 52px;
+}
+
+/* Styles for button#generate-el */
+#generate-el {
+    
+    background-color: #10B981; /* Green color */
+    color: white;
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
+    border-radius: 10px; /* Rounded edges */
+    width: 284px;
+    height: 53px;
+    margin-left: 52px;
+    
+}
+
+/* Styles for button#copyOne-el and button#copyTwo-el */
+#copyOne-el, #copyTwo-el {
+    background-color: #273549; /* Dark color */
+    color: #55F991; /* Light green color */
+    font-family: 'Inter', sans-serif;
+    font-weight: 500; /* Medium */
+    font-size: 16px;
+    width: 396px;
+    height: 52px;
+    margin-left: 52px;
+}
